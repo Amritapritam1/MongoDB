@@ -2,7 +2,7 @@
 **MongoDB is a document database and canbe installed locally or hosted in 
 the cloud.//a database is an organized collection of structured information 
   or data typically stored in a computer system.
-**It stores data in a type of JSON format called BSON.
+**It stores data in a type of JSON format called BSON (binary+json).
 **A record in MongoDB is a document, which is a data structure 
   composed of key value pairs similar to the structure of JSON objects.
 <!----MongoDB Document---->
